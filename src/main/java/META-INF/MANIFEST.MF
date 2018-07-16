@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Class-Path: guava-18.0.jar stax-api-1.0-2.jar jackson-databind-2.8.7.j
+ ar jackson-core-2.8.7.jar commons-logging-1.2.jar poi-3.17.jar activa
+ tion-1.1.jar xmlbeans-2.6.0.jar jjwt-0.4.jar sqlite-jdbc-3.21.0.jar c
+ ommons-collections4-4.1.jar jackson-annotations-2.8.7.jar slf4j-api-1
+ .7.6.jar commons-csv-1.5.jar httpclient-4.5.2.jar stax-api-1.0.1.jar 
+ poi-ooxml-schemas-3.17.jar poi-ooxml-3.17.jar commons-codec-1.10.jar 
+ twilio-7.17.9.jar curvesapi-1.04.jar httpcore-4.4.4.jar jaxb-api-2.2.
+ jar joda-time-2.5.jar
+Main-Class: main.Main
+
